@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Baking App</string>
+
+    <string name="content_desc_recipe_image">Recipe Image</string>
+    <string name="content_desc_app_icon">App Icon</string>
+    <string name="content_desc_step_thumbnail">Step Thumbnail</string>
+
+    <string name="label_refresh">Refresh</string>
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_steps">Directions</string>
+
+    <string name="message_no_network_connection">No network connection</string>
+    <string name="message_get_recipes_failed_api_error">Unable to get recipes. Please try again later.</string>
+    <string name="message_get_recipes_failed_no_data">No favorites found. Tap the star button on the recipe items to add it to favorites.</string>
+    <string name="message_get_recipe_failed">Recipe does not exists in the database.</string>
+
+    <string name="pref_key_recipes_data_updated">recipes_data_updated</string>
+
+</resources>

@@ -1,0 +1,26 @@
+# Baking App
+
+**Platform: Android (Min SDK: 19, Target SDK: 27)**
+
+**Author: [Timotius Oktorio](https://ca.linkedin.com/in/timotiusoktorio "LinkedIn Profile") (toktorio@gmail.com)**
+
+Simple baking app that allows user to find recipes created by Udacity’s resident baker-in-chief, Miriam.
+
+*This app is created as the third project of [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) program at Udacity.*
+
+### Features
+- Discover cake recipes created by Udacity’s resident baker-in-chief, Miriam.
+- Learn how to bake by watching the recipe steps video instructions.
+- User interface tailored for both phone and tablet screens.
+
+### What I have learned from this project
+- Using [ExoPlayer](http://google.github.io/ExoPlayer/) as an alternative to Android's MediaPlayer API to play videos.
+- Using [Dagger](https://google.github.io/dagger/) as a dependency injection tool to provide dependencies for classes.
+- Using [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/) libraries and [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) software architectural pattern.
+- Using [Android Data Binding](https://developer.android.com/topic/libraries/data-binding/) library to bind UI components in layout files to data sources in the app.
+- Transforming provided wireframes into actual user interface for both phone and tablet screen.
+- Adding app widget to allow user to quickly use the app from the device home screen.
+
+<br><img src="screenshots/screenshot_1.png" width="360" height="640" /> <img src="screenshots/screenshot_2.png" width="360" height="640" />
+
+Get the apk file [here](https://github.com/toktorio/Baking-App/blob/master/app/release/baking-app.apk?raw=true) to install the app on your device. Note that depending on your device settings, you might need to allow installation from unknown sources in order to install this app. Visit this [link](https://www.androidcentral.com/unknown-sources) for the detailed instructions.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="recipes_list_item_recipe_tv_size">16sp</dimen>
+    <dimen name="ingredients_list_item_ingredient_tv_size">16sp</dimen>
+    <dimen name="steps_list_item_step_tv_size">16sp</dimen>
+    <dimen name="steps_list_item_play_video_icon_size">36dp</dimen>
+    <dimen name="step_detail_desc_layout_short_description_tv_size">18sp</dimen>
+    <dimen name="step_detail_desc_layout_description_tv_size">16sp</dimen>
+
+</resources>
