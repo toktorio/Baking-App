@@ -25,7 +25,11 @@
             android:paddingBottom="8dp"
             android:paddingLeft="4dp"
             android:paddingRight="4dp"
-            android:visibility="@{viewModel.mShowRecipesFlag ? View.VISIBLE : View.GONE}" />
+            android:visibility="@{viewModel.mShowRecipesFlag ? View.VISIBLE : View.GONE}"
+            tools:itemCount="4"
+            tools:layoutManager="android.support.v7.widget.GridLayoutManager"
+            tools:listitem="@layout/list_item_recipes"
+            tools:spanCount="2" />
 
         <ProgressBar
             android:id="@+id/loading_spinner"

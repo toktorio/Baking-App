@@ -31,7 +31,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="180dp"
                 android:contentDescription="@string/content_desc_recipe_image"
-                android:src="@drawable/recipe_image_placeholder" />
+                tools:src="@drawable/recipe_image_placeholder" />
 
             <FrameLayout
                 android:layout_width="match_parent"
